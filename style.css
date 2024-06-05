@@ -1,6 +1,7 @@
 body{
     background-color: rgb(65, 65, 65);
     color: white;
+    font-size: 10px;
 }
 table{
     border:solid 5px;
