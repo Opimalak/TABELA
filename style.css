@@ -7,7 +7,6 @@ body{
 table{
     border:solid 5px;
     position: absolute;
-   
     transform: translate(50%, 50%);
     width: 50%; /* ou qualquer largura desejada */
 }
