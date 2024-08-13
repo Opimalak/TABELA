@@ -11,8 +11,6 @@ table{
     left: 50%;
     transform: translate(-50%, -50%);
     width: 50%; /* ou qualquer largura desejada */
-    background-color: lightgreen;
-    padding: 20px;
 }
 td{
     border:solid 3px;
