@@ -5,6 +5,7 @@ body{
 }
 table{
     border:solid 5px;
+    text-align: center;
 }
 td{
     border:solid 3px;
