@@ -7,7 +7,7 @@ body{
 table{
     border:solid 5px;
     position: absolute;
-    transform: translate(115%, 20%);
+    transform: translate(115%, 20%); /*adiciona exio x e y*/
     width: 30%;
 }
 td{
