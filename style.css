@@ -6,6 +6,8 @@ body{
 table{
     border:solid 5px;
     text-align: center;
+    display: flex;
+    align-items: center;
 }
 td{
     border:solid 3px;
