@@ -2,7 +2,7 @@ body{
     background-color: rgb(65, 65, 65);
     color: white;
     font-size: 20px;
-    align-items: center;
+  text-align: center;
 }
 table{
     border:solid 5px;
