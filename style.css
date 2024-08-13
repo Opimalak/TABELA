@@ -7,7 +7,7 @@ body{
 table{
     border:solid 5px;
     position: absolute;
-    transform: translate(50%, 100%);
+    transform: translate(100%, 50%);
     width: 30%;
 }
 td{
